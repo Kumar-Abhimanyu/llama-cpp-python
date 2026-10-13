@@ -7,7 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-- fix: retain end-of-generation token logprobs without emitting special-token text by @Kumar-Abhimanyu (issue #1528)
+- fix: retain end-of-generation token logprobs by @Kumar-Abhimanyu in #2383
 
 ## [0.3.36]
 
